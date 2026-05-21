@@ -1,3 +1,5 @@
+Paper: Investigating the Impact of Feature Reduction for Deep Learning-based Seasonal Sea Ice Forecasting ([Link](https://api.nva.unit.no/publication/0198cc8e6781-df14ff12-de52-4a19-8dcc-1297aade803d))
+
 # IceNet: Seasonal Arctic sea ice forecasting with probabilistic deep learning
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5176573.svg)](https://doi.org/10.5281/zenodo.5176573)
